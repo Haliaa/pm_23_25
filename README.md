@@ -1,2 +1,2 @@
-# pm_23_25
-ПМ_23, лабораторна робота 1
+##### university
+AM, laboratory work 1
